@@ -1,1 +1,1 @@
-# CS50---Learning-C
+# Learning-C
